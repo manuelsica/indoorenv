@@ -1,0 +1,7 @@
+gym
+numpy
+matplotlib
+pickle-mixin
+pygame
+torch
+tensorboard
