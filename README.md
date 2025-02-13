@@ -8,7 +8,7 @@ Questo progetto si concentra sullo sviluppo e l'addestramento di un agente intel
 ## Contenuti del Progetto
 
 - **Documentazione:**  
-  Il file `documentazione.tex` contiene una descrizione dettagliata dell'implementazione, suddivisa in sezioni che illustrano:
+  Il file `Indoor_navigation.pdf` contiene una descrizione dettagliata dell'implementazione, suddivisa in sezioni che illustrano:
   - La creazione dell'ambiente 2D con `pygame` e `gym`.
   - Le metodologie adottate nei due approcci (parzialmente osservabile vs. completamente osservabile).
   - Le implementazioni degli algoritmi: Q-Learning, SARSA e DQN (con architettura Dueling Double DQN).
